@@ -100,6 +100,12 @@ Guidelines
     Documentation: Update documentation as needed.
     Testing: Ensure your changes work as intended without breaking existing functionality.
 
+Snapshots :
+![image](https://github.com/user-attachments/assets/83e9e44c-d7a4-40b4-85cd-0f81440d594e)
+![image](https://github.com/user-attachments/assets/eff5c225-27aa-40f4-aff2-9fb55ab3753b)
+
+
+
 License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute it as per the terms of the license.
