@@ -112,7 +112,8 @@ Snapshots :
 License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute it as per the terms of the license.
-Contact
+
+# Contact
 
 Have questions or feedback? Reach out to us!
 
